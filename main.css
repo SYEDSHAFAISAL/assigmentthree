@@ -1,0 +1,85 @@
+
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Karla', sans-serif;
+}
+ .joc,
+ .ms,
+ .wu {
+    padding: 35px;
+    height: 50vh;
+}
+.ms, .wu{
+    width: 50%;
+    
+}
+}
+.joc{
+    background-color: white;
+    
+}
+.joc .heading{
+    color: greenyellow;
+    margin-top: 10px;
+}
+.joc .paragraph{
+    color: grey;
+}
+.ms{
+    background-color:rgb(8, 18, 19);
+    float: left;
+    
+    
+}
+span{
+    font-size: 35px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.box {
+    color: brown;
+}
+button{
+   background-color: greenyellow;
+   color: white;
+   font-size: 25px;
+   
+    padding: 20px 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 29px 33px 42px -6px rgba(191,89,89,0.64);
+-webkit-box-shadow: 29px 33px 42px -6px rgba(191,89,89,0.64);
+-moz-box-shadow: 29px 33px 42px -6px rgba(191,89,89,0.64);
+}
+.wu{
+    background-color:rgb(59, 170,176);
+    float: right;
+}
+.title{
+    font-size: 35px;
+    font-weight: 600;
+    color: rgb(34, 157,166);
+    margin-bottom: 20px;
+
+}
+.heading{
+ font-size: 18px;
+ color: white;
+ font-weight: 500;
+ margin-bottom: 10px;
+}
+.paragraph{
+    color: white;
+}
+pre{
+    margin-left: -95px;
+    font-size: 15px;
+    font-weight: 600;
+}
+body .joc{
+    margin-left: 100px;
+}
